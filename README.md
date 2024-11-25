@@ -1,5 +1,3 @@
-# 10_dataviz_airbnb_power_bi
-
 ## Repository Overview
 This repository contains data and visualizations for an Airbnb listings project focused on the cities of **Chicago** and **New Orleans**. The project merges data from both cities and provides a Power BI dashboard for a comprehensive analysis.
 
